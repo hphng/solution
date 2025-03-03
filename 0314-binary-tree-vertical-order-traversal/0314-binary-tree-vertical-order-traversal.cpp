@@ -35,10 +35,7 @@ public:
         }
         int i = 0;
         for(auto pair : mp){
-            ans.push_back({});
-            for(auto val : pair.second){
-                ans[i].push_back(val);
-            }
+            ans.push_back(pair.second);
             i++;
         }
         return ans;
