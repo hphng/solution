@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hphng/solution/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/hphng/solution/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/hphng/solution/tree/master/0091-decode-ways) |
 | [0778-reorganize-string](https://github.com/hphng/solution/tree/master/0778-reorganize-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/hphng/solution/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hphng/solution/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/hphng/solution/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/hphng/solution/tree/master/0045-jump-game-ii) |
 | [0091-decode-ways](https://github.com/hphng/solution/tree/master/0091-decode-ways) |
 | [0322-coin-change](https://github.com/hphng/solution/tree/master/0322-coin-change) |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/hphng/solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/hphng/solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
