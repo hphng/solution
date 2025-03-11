@@ -61,12 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hphng/solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/hphng/solution/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/hphng/solution/tree/master/0543-diameter-of-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/hphng/solution/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hphng/solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/hphng/solution/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/hphng/solution/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hphng/solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/hphng/solution/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/hphng/solution/tree/master/0543-diameter-of-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/hphng/solution/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -125,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/hphng/solution/tree/master/0022-generate-parentheses) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hphng/solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
