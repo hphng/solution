@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/hphng/solution/tree/master/0045-jump-game-ii) |
 | [0322-coin-change](https://github.com/hphng/solution/tree/master/0322-coin-change) |
 | [0523-continuous-subarray-sum](https://github.com/hphng/solution/tree/master/0523-continuous-subarray-sum) |
+| [0739-daily-temperatures](https://github.com/hphng/solution/tree/master/0739-daily-temperatures) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/hphng/solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/hphng/solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hphng/solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/hphng/solution/tree/master/0739-daily-temperatures) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/hphng/solution/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Math
 |  |
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hphng/solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/hphng/solution/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
