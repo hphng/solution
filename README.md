@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/hphng/solution/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hphng/solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0261-graph-valid-tree](https://github.com/hphng/solution/tree/master/0261-graph-valid-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/hphng/solution/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/hphng/solution/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/hphng/solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/hphng/solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/hphng/solution/tree/master/0199-binary-tree-right-side-view) |
+| [0261-graph-valid-tree](https://github.com/hphng/solution/tree/master/0261-graph-valid-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/hphng/solution/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0322-coin-change](https://github.com/hphng/solution/tree/master/0322-coin-change) |
 ## Sorting
@@ -167,4 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/hphng/solution/tree/master/0739-daily-temperatures) |
+## Union Find
+|  |
+| ------- |
+| [0261-graph-valid-tree](https://github.com/hphng/solution/tree/master/0261-graph-valid-tree) |
+## Graph
+|  |
+| ------- |
+| [0261-graph-valid-tree](https://github.com/hphng/solution/tree/master/0261-graph-valid-tree) |
 <!---LeetCode Topics End-->
