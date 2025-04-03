@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hphng/solution/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/hphng/solution/tree/master/0011-container-with-most-water) |
+| [0408-valid-word-abbreviation](https://github.com/hphng/solution/tree/master/0408-valid-word-abbreviation) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/hphng/solution/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## String
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/hphng/solution/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/hphng/solution/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/hphng/solution/tree/master/0091-decode-ways) |
+| [0408-valid-word-abbreviation](https://github.com/hphng/solution/tree/master/0408-valid-word-abbreviation) |
 | [0778-reorganize-string](https://github.com/hphng/solution/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/hphng/solution/tree/master/0807-custom-sort-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/hphng/solution/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
