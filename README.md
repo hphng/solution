@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/hphng/solution/tree/master/0525-contiguous-array) |
 | [0739-daily-temperatures](https://github.com/hphng/solution/tree/master/0739-daily-temperatures) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/hphng/solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/hphng/solution/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/hphng/solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hphng/solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/hphng/solution/tree/master/3227-find-missing-and-repeated-values) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0314-binary-tree-vertical-order-traversal](https://github.com/hphng/solution/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0778-reorganize-string](https://github.com/hphng/solution/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/hphng/solution/tree/master/0807-custom-sort-string) |
+| [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/hphng/solution/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 ## Binary Tree
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0261-graph-valid-tree](https://github.com/hphng/solution/tree/master/0261-graph-valid-tree) |
+| [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/hphng/solution/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 ## Graph
 |  |
 | ------- |
