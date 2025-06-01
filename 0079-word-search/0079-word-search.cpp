@@ -33,6 +33,22 @@ public:
         int n = board.size();
         int m = board[0].size();
         vector<vector<bool>> visited(n, vector<bool> (m, false));
+
+        unordered_map<char, int> mp1;
+        unordered_map<char, int> mp2;
+        for(auto& row : board){
+            for(char c : row){
+                mp1[c]++;
+            }
+        }
+
+        for(char c : word){
+            mp2[c]++;
+            if(mp2[c] > mp1[c]){
+                return false;
+            }
+        }
+
         for(int i = 0; i < n; i++){
             for(int j = 0; j < m; j++){
                 if(backtrack(board, i, j, visited, word, 0)){
