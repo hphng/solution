@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/hphng/solution/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/hphng/solution/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/hphng/solution/tree/master/0091-decode-ways) |
+| [0208-implement-trie-prefix-tree](https://github.com/hphng/solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0408-valid-word-abbreviation](https://github.com/hphng/solution/tree/master/0408-valid-word-abbreviation) |
 | [0778-reorganize-string](https://github.com/hphng/solution/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/hphng/solution/tree/master/0807-custom-sort-string) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/hphng/solution/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/hphng/solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/hphng/solution/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hphng/solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/hphng/solution/tree/master/0523-continuous-subarray-sum) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/hphng/solution/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/hphng/solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hphng/solution/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -232,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/hphng/solution/tree/master/0175-combine-two-tables) |
 | [0577-employee-bonus](https://github.com/hphng/solution/tree/master/0577-employee-bonus) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/hphng/solution/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
