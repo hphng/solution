@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/hphng/solution/tree/master/0322-coin-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/hphng/solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/hphng/solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/hphng/solution/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Array
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hphng/solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-count-zero-request-servers](https://github.com/hphng/solution/tree/master/2833-count-zero-request-servers) |
 | [3227-find-missing-and-repeated-values](https://github.com/hphng/solution/tree/master/3227-find-missing-and-repeated-values) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/hphng/solution/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/hphng/solution/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/hphng/solution/tree/master/0045-jump-game-ii) |
 | [0778-reorganize-string](https://github.com/hphng/solution/tree/master/0778-reorganize-string) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/hphng/solution/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1949-implement-trie-ii-prefix-tree](https://github.com/hphng/solution/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [2833-count-zero-request-servers](https://github.com/hphng/solution/tree/master/2833-count-zero-request-servers) |
 | [3227-find-missing-and-repeated-values](https://github.com/hphng/solution/tree/master/3227-find-missing-and-repeated-values) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/hphng/solution/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Tree
 |  |
 | ------- |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/hphng/solution/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/hphng/solution/tree/master/0525-contiguous-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/hphng/solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/hphng/solution/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Matrix
 |  |
 | ------- |
@@ -252,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/hphng/solution/tree/master/0139-word-break) |
+## Enumeration
+|  |
+| ------- |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/hphng/solution/tree/master/3751-maximum-frequency-after-subarray-operation) |
 <!---LeetCode Topics End-->
