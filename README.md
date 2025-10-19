@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hphng/solution/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/hphng/solution/tree/master/0011-container-with-most-water) |
+| [0253-meeting-rooms-ii](https://github.com/hphng/solution/tree/master/0253-meeting-rooms-ii) |
 | [0408-valid-word-abbreviation](https://github.com/hphng/solution/tree/master/0408-valid-word-abbreviation) |
 | [0658-find-k-closest-elements](https://github.com/hphng/solution/tree/master/0658-find-k-closest-elements) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/hphng/solution/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/hphng/solution/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/hphng/solution/tree/master/0139-word-break) |
 | [0209-minimum-size-subarray-sum](https://github.com/hphng/solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0253-meeting-rooms-ii](https://github.com/hphng/solution/tree/master/0253-meeting-rooms-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/hphng/solution/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/hphng/solution/tree/master/0322-coin-change) |
 | [0346-moving-average-from-data-stream](https://github.com/hphng/solution/tree/master/0346-moving-average-from-data-stream) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/hphng/solution/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/hphng/solution/tree/master/0045-jump-game-ii) |
+| [0253-meeting-rooms-ii](https://github.com/hphng/solution/tree/master/0253-meeting-rooms-ii) |
 | [0778-reorganize-string](https://github.com/hphng/solution/tree/master/0778-reorganize-string) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/hphng/solution/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/hphng/solution/tree/master/3751-maximum-frequency-after-subarray-operation) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/hphng/solution/tree/master/0253-meeting-rooms-ii) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/hphng/solution/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0658-find-k-closest-elements](https://github.com/hphng/solution/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/hphng/solution/tree/master/0778-reorganize-string) |
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/hphng/solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0253-meeting-rooms-ii](https://github.com/hphng/solution/tree/master/0253-meeting-rooms-ii) |
 | [0523-continuous-subarray-sum](https://github.com/hphng/solution/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/hphng/solution/tree/master/0525-contiguous-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/hphng/solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -207,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/hphng/solution/tree/master/0253-meeting-rooms-ii) |
 | [0658-find-k-closest-elements](https://github.com/hphng/solution/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/hphng/solution/tree/master/0778-reorganize-string) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/hphng/solution/tree/master/2914-find-the-safest-path-in-a-grid) |
