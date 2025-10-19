@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hphng/solution/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/hphng/solution/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/hphng/solution/tree/master/0031-next-permutation) |
 | [0253-meeting-rooms-ii](https://github.com/hphng/solution/tree/master/0253-meeting-rooms-ii) |
 | [0408-valid-word-abbreviation](https://github.com/hphng/solution/tree/master/0408-valid-word-abbreviation) |
 | [0658-find-k-closest-elements](https://github.com/hphng/solution/tree/master/0658-find-k-closest-elements) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hphng/solution/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/hphng/solution/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/hphng/solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/hphng/solution/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/hphng/solution/tree/master/0051-n-queens) |
