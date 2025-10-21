@@ -1,50 +1,19 @@
 class Solution {
 public:
-    int find(int x, unordered_map<int, int>& parent ){
-        if(parent[x] != x){
-            parent[x] = find(parent[x], parent);
-        }
-        return parent[x];
-    }
-
-    void merge(int x, int y, unordered_map<int, int>& parent, unordered_map<int, int>& size, int& maxSegment){
-        int rootX = find(x, parent);
-        int rootY = find(y, parent);
-
-        if(rootX != rootY){
-            if(size[rootX] < size[rootY]){
-                swap(rootX, rootY);
-            }
-            parent[rootY] = rootX;
-            size[rootX] += size[rootY];
-            maxSegment = max(maxSegment, size[rootX]);
-        }
-    }
-
     int longestConsecutive(vector<int>& nums) {
-        unordered_map<int, int> parent, size;
-        vector<int> result;
-        int ans = 1;
+        unordered_set<int> numSet(nums.begin(), nums.end());
 
-        if(nums.size() == 0) return 0;
-
-        for(int i = 0; i < nums.size();i++){
-            int x = nums[i];
-            if(parent.find(x) != parent.end()){
-                continue;
+        int maxi = 0;
+        for(auto x: numSet){;
+            //no x -1 -> start of array
+            if(numSet.find(x-1) == numSet.end()){
+                int cur = 1;
+                while(numSet.find(x+cur) != numSet.end()){
+                    cur++;
+                }
+                maxi = max(cur, maxi);
             }
-            parent[x] = x;
-            size[x] = 1;
-
-            if(parent.find(x-1) != parent.end()){
-                merge(x, x-1, parent, size, ans);
-            }
-            if(parent.find(x+1) != parent.end()){
-                merge(x, x+1, parent, size, ans);
-            }
-            cout << nums[i] << " " << ans << endl;
         }
-        return ans;
-
+        return maxi;
     }
 };
