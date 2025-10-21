@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/hphng/solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/hphng/solution/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/hphng/solution/tree/master/0079-word-search) |
+| [0128-longest-consecutive-sequence](https://github.com/hphng/solution/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/hphng/solution/tree/master/0139-word-break) |
 | [0209-minimum-size-subarray-sum](https://github.com/hphng/solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0253-meeting-rooms-ii](https://github.com/hphng/solution/tree/master/0253-meeting-rooms-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/hphng/solution/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/hphng/solution/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/hphng/solution/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/hphng/solution/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/hphng/solution/tree/master/0208-implement-trie-prefix-tree) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/hphng/solution/tree/master/0128-longest-consecutive-sequence) |
 | [0261-graph-valid-tree](https://github.com/hphng/solution/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/hphng/solution/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/hphng/solution/tree/master/0547-number-of-provinces) |
