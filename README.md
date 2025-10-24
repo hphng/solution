@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/hphng/solution/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hphng/solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/hphng/solution/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/hphng/solution/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/hphng/solution/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/hphng/solution/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/hphng/solution/tree/master/0300-longest-increasing-subsequence) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/hphng/solution/tree/master/0062-unique-paths) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hphng/solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/hphng/solution/tree/master/0523-continuous-subarray-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/hphng/solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -387,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/hphng/solution/tree/master/0692-top-k-frequent-words) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/hphng/solution/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
