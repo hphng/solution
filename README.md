@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/hphng/solution/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/hphng/solution/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/hphng/solution/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/hphng/solution/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/hphng/solution/tree/master/0139-word-break) |
 | [0209-minimum-size-subarray-sum](https://github.com/hphng/solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/hphng/solution/tree/master/0212-word-search-ii) |
@@ -396,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/hphng/solution/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/hphng/solution/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
