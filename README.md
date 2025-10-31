@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/hphng/solution/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3227-find-missing-and-repeated-values](https://github.com/hphng/solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/hphng/solution/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/hphng/solution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/hphng/solution/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/hphng/solution/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Binary Search
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/hphng/solution/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/hphng/solution/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/hphng/solution/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/hphng/solution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/hphng/solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2833-count-zero-request-servers](https://github.com/hphng/solution/tree/master/2833-count-zero-request-servers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/hphng/solution/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/hphng/solution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/hphng/solution/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Binary Tree
 |  |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/hphng/solution/tree/master/0560-subarray-sum-equals-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/hphng/solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/hphng/solution/tree/master/2576-minimum-penalty-for-a-shop) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/hphng/solution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/hphng/solution/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Matrix
 |  |
@@ -303,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/hphng/solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/hphng/solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2833-count-zero-request-servers](https://github.com/hphng/solution/tree/master/2833-count-zero-request-servers) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/hphng/solution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Backtracking
 |  |
 | ------- |
