@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/hphng/solution/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3227-find-missing-and-repeated-values](https://github.com/hphng/solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/hphng/solution/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/hphng/solution/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/hphng/solution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/hphng/solution/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/hphng/solution/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/hphng/solution/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/hphng/solution/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/hphng/solution/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/hphng/solution/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/hphng/solution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Greedy
 |  |
