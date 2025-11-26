@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/hphng/solution/tree/master/0322-coin-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/hphng/solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/hphng/solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/hphng/solution/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/hphng/solution/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/hphng/solution/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Array
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1099-path-with-maximum-minimum-value](https://github.com/hphng/solution/tree/master/1099-path-with-maximum-minimum-value) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/hphng/solution/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/hphng/solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/hphng/solution/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/hphng/solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hphng/solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/hphng/solution/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/hphng/solution/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/hphng/solution/tree/master/0498-diagonal-traverse) |
 | [1099-path-with-maximum-minimum-value](https://github.com/hphng/solution/tree/master/1099-path-with-maximum-minimum-value) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/hphng/solution/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/hphng/solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/hphng/solution/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/hphng/solution/tree/master/3227-find-missing-and-repeated-values) |
