@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/hphng/solution/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hphng/solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/hphng/solution/tree/master/3227-find-missing-and-repeated-values) |
+| [3433-count-mentions-per-user](https://github.com/hphng/solution/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/hphng/solution/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/hphng/solution/tree/master/3531-count-covered-buildings) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/hphng/solution/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/hphng/solution/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/hphng/solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2833-count-zero-request-servers](https://github.com/hphng/solution/tree/master/2833-count-zero-request-servers) |
+| [3433-count-mentions-per-user](https://github.com/hphng/solution/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/hphng/solution/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/hphng/solution/tree/master/3531-count-covered-buildings) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/hphng/solution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/hphng/solution/tree/master/2610-closest-prime-numbers-in-range) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hphng/solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/hphng/solution/tree/master/3227-find-missing-and-repeated-values) |
+| [3433-count-mentions-per-user](https://github.com/hphng/solution/tree/master/3433-count-mentions-per-user) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/hphng/solution/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/hphng/solution/tree/master/0735-asteroid-collision) |
 | [2211-count-collisions-on-a-road](https://github.com/hphng/solution/tree/master/2211-count-collisions-on-a-road) |
+| [3433-count-mentions-per-user](https://github.com/hphng/solution/tree/master/3433-count-mentions-per-user) |
 ## Design
 |  |
 | ------- |
