@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/hphng/solution/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2833-count-zero-request-servers](https://github.com/hphng/solution/tree/master/2833-count-zero-request-servers) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/hphng/solution/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/hphng/solution/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/hphng/solution/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hphng/solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/hphng/solution/tree/master/3227-find-missing-and-repeated-values) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/hphng/solution/tree/master/0402-remove-k-digits) |
 | [0778-reorganize-string](https://github.com/hphng/solution/tree/master/0778-reorganize-string) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/hphng/solution/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/hphng/solution/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/hphng/solution/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/hphng/solution/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/hphng/solution/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2092-find-all-people-with-secret](https://github.com/hphng/solution/tree/master/2092-find-all-people-with-secret) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/hphng/solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2833-count-zero-request-servers](https://github.com/hphng/solution/tree/master/2833-count-zero-request-servers) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/hphng/solution/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/hphng/solution/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/hphng/solution/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/hphng/solution/tree/master/3531-count-covered-buildings) |
