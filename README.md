@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/hphng/solution/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/hphng/solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/hphng/solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2402-meeting-rooms-iii](https://github.com/hphng/solution/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/hphng/solution/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/hphng/solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hphng/solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/hphng/solution/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/hphng/solution/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hphng/solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2402-meeting-rooms-iii](https://github.com/hphng/solution/tree/master/2402-meeting-rooms-iii) |
 | [2833-count-zero-request-servers](https://github.com/hphng/solution/tree/master/2833-count-zero-request-servers) |
 | [3227-find-missing-and-repeated-values](https://github.com/hphng/solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/hphng/solution/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/hphng/solution/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/hphng/solution/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2092-find-all-people-with-secret](https://github.com/hphng/solution/tree/master/2092-find-all-people-with-secret) |
+| [2402-meeting-rooms-iii](https://github.com/hphng/solution/tree/master/2402-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/hphng/solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2833-count-zero-request-servers](https://github.com/hphng/solution/tree/master/2833-count-zero-request-servers) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/hphng/solution/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/hphng/solution/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/hphng/solution/tree/master/0778-reorganize-string) |
 | [1099-path-with-maximum-minimum-value](https://github.com/hphng/solution/tree/master/1099-path-with-maximum-minimum-value) |
+| [2402-meeting-rooms-iii](https://github.com/hphng/solution/tree/master/2402-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/hphng/solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/hphng/solution/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/hphng/solution/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
@@ -424,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/hphng/solution/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/hphng/solution/tree/master/0735-asteroid-collision) |
 | [2211-count-collisions-on-a-road](https://github.com/hphng/solution/tree/master/2211-count-collisions-on-a-road) |
+| [2402-meeting-rooms-iii](https://github.com/hphng/solution/tree/master/2402-meeting-rooms-iii) |
 | [3433-count-mentions-per-user](https://github.com/hphng/solution/tree/master/3433-count-mentions-per-user) |
 ## Design
 |  |
