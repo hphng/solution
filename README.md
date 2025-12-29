@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/hphng/solution/tree/master/0402-remove-k-digits) |
 | [0408-valid-word-abbreviation](https://github.com/hphng/solution/tree/master/0408-valid-word-abbreviation) |
 | [0692-top-k-frequent-words](https://github.com/hphng/solution/tree/master/0692-top-k-frequent-words) |
+| [0756-pyramid-transition-matrix](https://github.com/hphng/solution/tree/master/0756-pyramid-transition-matrix) |
 | [0778-reorganize-string](https://github.com/hphng/solution/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/hphng/solution/tree/master/0807-custom-sort-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/hphng/solution/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/hphng/solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/hphng/solution/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/hphng/solution/tree/master/0692-top-k-frequent-words) |
+| [0756-pyramid-transition-matrix](https://github.com/hphng/solution/tree/master/0756-pyramid-transition-matrix) |
 | [0778-reorganize-string](https://github.com/hphng/solution/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/hphng/solution/tree/master/0807-custom-sort-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/hphng/solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/hphng/solution/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/hphng/solution/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/hphng/solution/tree/master/0212-word-search-ii) |
+| [0756-pyramid-transition-matrix](https://github.com/hphng/solution/tree/master/0756-pyramid-transition-matrix) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hphng/solution/tree/master/0136-single-number) |
+| [0756-pyramid-transition-matrix](https://github.com/hphng/solution/tree/master/0756-pyramid-transition-matrix) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hphng/solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Radix Sort
 |  |
