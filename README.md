@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/hphng/solution/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/hphng/solution/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/hphng/solution/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/hphng/solution/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/hphng/solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/hphng/solution/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/hphng/solution/tree/master/0079-word-search) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/hphng/solution/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/hphng/solution/tree/master/0066-plus-one) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hphng/solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/hphng/solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/hphng/solution/tree/master/0523-continuous-subarray-sum) |
