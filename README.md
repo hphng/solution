@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/hphng/solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/hphng/solution/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1099-path-with-maximum-minimum-value](https://github.com/hphng/solution/tree/master/1099-path-with-maximum-minimum-value) |
+| [1390-four-divisors](https://github.com/hphng/solution/tree/master/1390-four-divisors) |
 | [1590-make-sum-divisible-by-p](https://github.com/hphng/solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/hphng/solution/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/hphng/solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/hphng/solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/hphng/solution/tree/master/0523-continuous-subarray-sum) |
 | [0840-magic-squares-in-grid](https://github.com/hphng/solution/tree/master/0840-magic-squares-in-grid) |
+| [1390-four-divisors](https://github.com/hphng/solution/tree/master/1390-four-divisors) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/hphng/solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/hphng/solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/hphng/solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
