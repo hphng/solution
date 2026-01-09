@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/hphng/solution/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/hphng/solution/tree/master/0807-custom-sort-string) |
 | [0840-magic-squares-in-grid](https://github.com/hphng/solution/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/hphng/solution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/hphng/solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/hphng/solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/hphng/solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/hphng/solution/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/hphng/solution/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/hphng/solution/tree/master/0543-diameter-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/hphng/solution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hphng/solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1214-two-sum-bsts](https://github.com/hphng/solution/tree/master/1214-two-sum-bsts) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/hphng/solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0339-nested-list-weight-sum](https://github.com/hphng/solution/tree/master/0339-nested-list-weight-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/hphng/solution/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/hphng/solution/tree/master/0547-number-of-provinces) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/hphng/solution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1099-path-with-maximum-minimum-value](https://github.com/hphng/solution/tree/master/1099-path-with-maximum-minimum-value) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hphng/solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1214-two-sum-bsts](https://github.com/hphng/solution/tree/master/1214-two-sum-bsts) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/hphng/solution/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0339-nested-list-weight-sum](https://github.com/hphng/solution/tree/master/0339-nested-list-weight-sum) |
 | [0547-number-of-provinces](https://github.com/hphng/solution/tree/master/0547-number-of-provinces) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/hphng/solution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1099-path-with-maximum-minimum-value](https://github.com/hphng/solution/tree/master/1099-path-with-maximum-minimum-value) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hphng/solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/hphng/solution/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -313,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/hphng/solution/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/hphng/solution/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/hphng/solution/tree/master/0543-diameter-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/hphng/solution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hphng/solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1214-two-sum-bsts](https://github.com/hphng/solution/tree/master/1214-two-sum-bsts) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/hphng/solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
