@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/hphng/solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/hphng/solution/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/hphng/solution/tree/master/0062-unique-paths) |
+| [0085-maximal-rectangle](https://github.com/hphng/solution/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/hphng/solution/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/hphng/solution/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/hphng/solution/tree/master/0221-maximal-square) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/hphng/solution/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/hphng/solution/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hphng/solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/hphng/solution/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/hphng/solution/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/hphng/solution/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/hphng/solution/tree/master/0135-candy) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hphng/solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hphng/solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/hphng/solution/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/hphng/solution/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/hphng/solution/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/hphng/solution/tree/master/0503-next-greater-element-ii) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/hphng/solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/hphng/solution/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/hphng/solution/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/hphng/solution/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/hphng/solution/tree/master/0130-surrounded-regions) |
 | [0212-word-search-ii](https://github.com/hphng/solution/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/hphng/solution/tree/master/0221-maximal-square) |
@@ -442,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hphng/solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hphng/solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/hphng/solution/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/hphng/solution/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/hphng/solution/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/hphng/solution/tree/master/0739-daily-temperatures) |
