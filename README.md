@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/hphng/solution/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/hphng/solution/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/hphng/solution/tree/master/0619-biggest-single-number) |
+| [1075-project-employees-i](https://github.com/hphng/solution/tree/master/1075-project-employees-i) |
 ## Trie
 |  |
 | ------- |
