@@ -522,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/hphng/solution/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/hphng/solution/tree/master/0619-biggest-single-number) |
 | [1075-project-employees-i](https://github.com/hphng/solution/tree/master/1075-project-employees-i) |
+| [1211-queries-quality-and-percentage](https://github.com/hphng/solution/tree/master/1211-queries-quality-and-percentage) |
 ## Trie
 |  |
 | ------- |
