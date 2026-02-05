@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/hphng/solution/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/hphng/solution/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/hphng/solution/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/hphng/solution/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/hphng/solution/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/hphng/solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0346-moving-average-from-data-stream](https://github.com/hphng/solution/tree/master/0346-moving-average-from-data-stream) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/hphng/solution/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/hphng/solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0307-range-sum-query-mutable](https://github.com/hphng/solution/tree/master/0307-range-sum-query-mutable) |
 | [0346-moving-average-from-data-stream](https://github.com/hphng/solution/tree/master/0346-moving-average-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hphng/solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/hphng/solution/tree/master/1949-implement-trie-ii-prefix-tree) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/hphng/solution/tree/master/0023-merge-k-sorted-lists) |
+| [0307-range-sum-query-mutable](https://github.com/hphng/solution/tree/master/0307-range-sum-query-mutable) |
 ## Merge Sort
 |  |
 | ------- |
@@ -597,4 +600,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/hphng/solution/tree/master/1266-minimum-time-visiting-all-points) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/hphng/solution/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/hphng/solution/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
