@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/hphng/solution/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/hphng/solution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hphng/solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0076-minimum-window-substring](https://github.com/hphng/solution/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/hphng/solution/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/hphng/solution/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/hphng/solution/tree/master/0139-word-break) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hphng/solution/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/hphng/solution/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/hphng/solution/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/hphng/solution/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/hphng/solution/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/hphng/solution/tree/master/0146-lru-cache) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/hphng/solution/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/hphng/solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/hphng/solution/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/hphng/solution/tree/master/0658-find-k-closest-elements) |
