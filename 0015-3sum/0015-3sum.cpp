@@ -1,37 +1,30 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        vector<vector<int>> res;
         sort(nums.begin(), nums.end());
+        set<vector<int>> unique;
         int n = nums.size();
         for(int i = 0; i < n; i++){
-            if(i > 0 && nums[i-1] == nums[i]){
-                continue;
-            }
-
-            int twoSum = 0 - nums[i];
-            int left = i + 1;
-            int right = nums.size() - 1;
-
+            int target = -nums[i];
+            int left = i + 1, right = n - 1;
             while(left < right){
-                int curSum = nums[left] + nums[right];
-                if(curSum < twoSum){
+                if(nums[left] + nums[right] == target){
+                    unique.insert({nums[i], nums[left], nums[right]});
                     left++;
-                } else if(curSum > twoSum){
                     right--;
+                    continue;
+                }
+                 
+                if(nums[left] + nums[right] < target){
+                    left++;
                 } else {
-                    res.push_back({nums[i], nums[left], nums[right]});
-                    left++;
-                    while(nums[left] == nums[left-1] && left < right){
-                        left++;
-                    }
                     right--;
-                    while(nums[right] == nums[right+1] && left < right){
-                        right--;
-                    }
                 }
             }
         }
-        return res;
+
+        vector<vector<int>> ans(unique.begin(), unique.end());
+
+        return ans;
     }
 };
