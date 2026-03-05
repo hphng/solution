@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/hphng/solution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/hphng/solution/tree/master/0739-daily-temperatures) |
 | [0840-magic-squares-in-grid](https://github.com/hphng/solution/tree/master/0840-magic-squares-in-grid) |
+| [0853-car-fleet](https://github.com/hphng/solution/tree/master/0853-car-fleet) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/hphng/solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/hphng/solution/tree/master/0907-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/hphng/solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/hphng/solution/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/hphng/solution/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/hphng/solution/tree/master/0807-custom-sort-string) |
+| [0853-car-fleet](https://github.com/hphng/solution/tree/master/0853-car-fleet) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/hphng/solution/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/hphng/solution/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2092-find-all-people-with-secret](https://github.com/hphng/solution/tree/master/2092-find-all-people-with-secret) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/hphng/solution/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/hphng/solution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/hphng/solution/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/hphng/solution/tree/master/0853-car-fleet) |
 | [1214-two-sum-bsts](https://github.com/hphng/solution/tree/master/1214-two-sum-bsts) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/hphng/solution/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2211-count-collisions-on-a-road](https://github.com/hphng/solution/tree/master/2211-count-collisions-on-a-road) |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/hphng/solution/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/hphng/solution/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/hphng/solution/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/hphng/solution/tree/master/0853-car-fleet) |
 ## Union Find
 |  |
 | ------- |
