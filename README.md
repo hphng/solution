@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/hphng/solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/hphng/solution/tree/master/0907-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/hphng/solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1046-last-stone-weight](https://github.com/hphng/solution/tree/master/1046-last-stone-weight) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/hphng/solution/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1099-path-with-maximum-minimum-value](https://github.com/hphng/solution/tree/master/1099-path-with-maximum-minimum-value) |
 | [1266-minimum-time-visiting-all-points](https://github.com/hphng/solution/tree/master/1266-minimum-time-visiting-all-points) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/hphng/solution/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/hphng/solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0778-reorganize-string](https://github.com/hphng/solution/tree/master/0778-reorganize-string) |
+| [1046-last-stone-weight](https://github.com/hphng/solution/tree/master/1046-last-stone-weight) |
 | [1099-path-with-maximum-minimum-value](https://github.com/hphng/solution/tree/master/1099-path-with-maximum-minimum-value) |
 | [2402-meeting-rooms-iii](https://github.com/hphng/solution/tree/master/2402-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/hphng/solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
