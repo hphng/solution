@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/hphng/solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hphng/solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/hphng/solution/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/hphng/solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hphng/solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/hphng/solution/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/hphng/solution/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hphng/solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/hphng/solution/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/hphng/solution/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/hphng/solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hphng/solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0261-graph-valid-tree](https://github.com/hphng/solution/tree/master/0261-graph-valid-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/hphng/solution/tree/master/0298-binary-tree-longest-consecutive-sequence) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/hphng/solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hphng/solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/hphng/solution/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/hphng/solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hphng/solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/hphng/solution/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/hphng/solution/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/hphng/solution/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/hphng/solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hphng/solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1214-two-sum-bsts](https://github.com/hphng/solution/tree/master/1214-two-sum-bsts) |
 ## Monotonic Stack
