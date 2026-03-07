@@ -21,18 +21,14 @@ public:
         return isSameTree(p -> left, q -> left) && isSameTree(p -> right, q -> right);
     }
 
-    void dfs(TreeNode* root, TreeNode* subRoot) {
-        if(!root)
-            return;
-
-        if(root -> val == subRoot -> val && isSameTree(root, subRoot)){
-            ans = true;
-        }
-        dfs(root -> left, subRoot);
-        dfs(root -> right, subRoot);
-    }
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
-        dfs(root, subRoot);
-        return ans;
+        if(!root || !subRoot) 
+            return root == subRoot;
+        
+        if(root -> val == subRoot -> val && isSameTree(root, subRoot)){
+            return true;
+        }
+
+        return isSubtree(root -> left, subRoot) || isSubtree(root -> right, subRoot);
     }
 };
