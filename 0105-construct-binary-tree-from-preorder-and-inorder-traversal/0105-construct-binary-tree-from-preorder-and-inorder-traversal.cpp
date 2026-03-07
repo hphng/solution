@@ -11,34 +11,31 @@
  */
 class Solution {
 public:
-    int findPosition(vector<int>& inorder, int n, int x)
-    {
-        for(int i = 0; i < n; i++)
-            if(x == inorder[i])
-                return i;
-        return -1;
-    }
-    
-    TreeNode* solution(vector<int>& preorder, vector<int> & inorder, int &index, int n, int start, int end )
-    {
-        if(index >= n || start > end)
-            return NULL;
-        int x = preorder[index++];
-        TreeNode* root = new TreeNode(x);
-        int position = findPosition(inorder, n, x);
-        
-        root -> left = solution(preorder, inorder, index, n, start, position-1);
-        root -> right = solution(preorder, inorder, index, n, position +1, end);
-        
+    int pre;
+    unordered_map<int, int> mp;
+
+    TreeNode* build(vector<int>& preorder, int start, int end) {
+        if(start > end) return nullptr;
+
+        int rootVal = preorder[pre];
+        pre++;
+        TreeNode* root = new TreeNode(rootVal);
+        int mid = mp[rootVal];
+
+        TreeNode* left = build(preorder, start, mid -1);
+        TreeNode* right = build(preorder, mid +1, end);
+
+        root -> left = left;
+        root -> right = right;
         return root;
     }
-    
-    
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        int preIndex = 0;
-        int n = preorder.size();
-        TreeNode * ans = solution(preorder, inorder, preIndex, n, 0, n-1);
-        
-        return ans;
+        mp.clear();
+        for(int i = 0; i < inorder.size(); i++){
+            mp[inorder[i]] = i;
+        }
+
+        pre = 0;
+        return build(preorder, 0, inorder.size()-1);
     }
 };
