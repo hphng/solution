@@ -1,17 +1,14 @@
-class TrieNode {
-public:
-    TrieNode* child[26];
-    bool isLeaf;
-
-    TrieNode() {
-        isLeaf = false;
-        for(int i = 0; i < 26; i++){
-            child[i] = NULL;
-        }
-    }
-};
 
 class Trie {
+private:
+    struct TrieNode {
+        vector<TrieNode*> child;
+        bool isWord;
+
+        TrieNode(): isWord(false)  {
+            child.resize(26, nullptr);
+        }
+    };
 public:
     TrieNode* root;
     Trie() {
@@ -19,35 +16,36 @@ public:
     }
     
     void insert(string word) {
-        TrieNode* curr = root;
-        for(char c : word){
-            if(!curr -> child[c - 'a']){
-                TrieNode* newNode = new TrieNode();
-                curr -> child[c - 'a'] = newNode;
-            }
-            curr = curr -> child[c -'a'];
+        TrieNode* node = root;
+        for(int i = 0; i < word.length(); i++){
+            if(!node -> child[word[i]-'a'])
+                node -> child[word[i] - 'a'] = new TrieNode();
+            node = node -> child[word[i] - 'a'];
         }
-        curr -> isLeaf = true;
+        node -> isWord = true;
     }
     
     bool search(string word) {
-        TrieNode* curr = root;
-        for(char c: word){
-            if(!curr -> child[c - 'a']){
+        TrieNode* node = root;
+        for(int i = 0; i < word.length(); i++) {
+            char c = word[i];
+            if(!node -> child[c-'a']) {
                 return false;
             }
-            curr = curr -> child[c -'a'];
+            node = node -> child[c-'a'];
         }
-        return curr -> isLeaf;
+
+        return node -> isWord;
     }
     
     bool startsWith(string prefix) {
-        TrieNode* curr = root;
-        for(char c : prefix){
-            if(!curr -> child[c - 'a']){
+        TrieNode* node = root;
+        for(int i = 0; i < prefix.length(); i++){
+            char c = prefix[i];
+            if(!node -> child[c-'a']){
                 return false;
             }
-            curr = curr -> child[c - 'a'];
+            node = node -> child[c-'a'];
         }
         return true;
     }
