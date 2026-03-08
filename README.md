@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/hphng/solution/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/hphng/solution/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/hphng/solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/hphng/solution/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/hphng/solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/hphng/solution/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/hphng/solution/tree/master/0051-n-queens) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/hphng/solution/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/hphng/solution/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/hphng/solution/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/hphng/solution/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/hphng/solution/tree/master/0078-subsets) |
