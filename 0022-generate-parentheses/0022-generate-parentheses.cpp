@@ -1,21 +1,28 @@
 class Solution {
 public:
-    void dfs(vector<string>& ans, int n, int open, int close, string cur){
-        if(cur.length() == 2*n && open == close){
-            ans.push_back(cur);
+    void backtrack(vector<string>& ans, string& path, int open, int close) {
+        if(open == 0 && close == 0) {
+            ans.push_back(path);
+            return;
         }
 
-        if(open < n){
-            dfs(ans, n, open + 1, close, cur + "(");
+        if(open > 0){
+            path += "(";
+            backtrack(ans, path, open-1, close);
+            path.pop_back();
         }
 
-        if(close < open){
-            dfs(ans, n, open, close+1, cur + ")");
+        if(close > open) {
+            path += ")";
+            backtrack(ans, path, open, close-1);
+            path.pop_back();
         }
+
     }
     vector<string> generateParenthesis(int n) {
+        string path = "";
         vector<string> ans;
-        dfs(ans, n, 0, 0, "");
+        backtrack(ans, path, n, n);
         return ans;
     }
 };
