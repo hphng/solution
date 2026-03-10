@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/hphng/solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/hphng/solution/tree/master/0907-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/hphng/solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0994-rotting-oranges](https://github.com/hphng/solution/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/hphng/solution/tree/master/1046-last-stone-weight) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/hphng/solution/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1099-path-with-maximum-minimum-value](https://github.com/hphng/solution/tree/master/1099-path-with-maximum-minimum-value) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0339-nested-list-weight-sum](https://github.com/hphng/solution/tree/master/0339-nested-list-weight-sum) |
 | [0547-number-of-provinces](https://github.com/hphng/solution/tree/master/0547-number-of-provinces) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/hphng/solution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0994-rotting-oranges](https://github.com/hphng/solution/tree/master/0994-rotting-oranges) |
 | [1099-path-with-maximum-minimum-value](https://github.com/hphng/solution/tree/master/1099-path-with-maximum-minimum-value) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hphng/solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/hphng/solution/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/hphng/solution/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/hphng/solution/tree/master/0498-diagonal-traverse) |
 | [0840-magic-squares-in-grid](https://github.com/hphng/solution/tree/master/0840-magic-squares-in-grid) |
+| [0994-rotting-oranges](https://github.com/hphng/solution/tree/master/0994-rotting-oranges) |
 | [1099-path-with-maximum-minimum-value](https://github.com/hphng/solution/tree/master/1099-path-with-maximum-minimum-value) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/hphng/solution/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/hphng/solution/tree/master/1975-maximum-matrix-sum) |
