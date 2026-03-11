@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/hphng/solution/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hphng/solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/hphng/solution/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/hphng/solution/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/hphng/solution/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/hphng/solution/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/hphng/solution/tree/master/0322-coin-change) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/hphng/solution/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/hphng/solution/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hphng/solution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/hphng/solution/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/hphng/solution/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hphng/solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/hphng/solution/tree/master/0200-number-of-islands) |
