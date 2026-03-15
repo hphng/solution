@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/hphng/solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/hphng/solution/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/hphng/solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/hphng/solution/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/hphng/solution/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/hphng/solution/tree/master/1975-maximum-matrix-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/hphng/solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/hphng/solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/hphng/solution/tree/master/0402-remove-k-digits) |
 | [0778-reorganize-string](https://github.com/hphng/solution/tree/master/0778-reorganize-string) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/hphng/solution/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1975-maximum-matrix-sum](https://github.com/hphng/solution/tree/master/1975-maximum-matrix-sum) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/hphng/solution/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/hphng/solution/tree/master/3075-maximize-happiness-of-selected-children) |
