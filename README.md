@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/hphng/solution/tree/master/0518-coin-change-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hphng/solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/hphng/solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/hphng/solution/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/hphng/solution/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/hphng/solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/hphng/solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/hphng/solution/tree/master/1046-last-stone-weight) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/hphng/solution/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1099-path-with-maximum-minimum-value](https://github.com/hphng/solution/tree/master/1099-path-with-maximum-minimum-value) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/hphng/solution/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1266-minimum-time-visiting-all-points](https://github.com/hphng/solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/hphng/solution/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/hphng/solution/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/hphng/solution/tree/master/0907-koko-eating-bananas) |
 | [1099-path-with-maximum-minimum-value](https://github.com/hphng/solution/tree/master/1099-path-with-maximum-minimum-value) |
 | [1214-two-sum-bsts](https://github.com/hphng/solution/tree/master/1214-two-sum-bsts) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/hphng/solution/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/hphng/solution/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hphng/solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/hphng/solution/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/hphng/solution/tree/master/0807-custom-sort-string) |
 | [0853-car-fleet](https://github.com/hphng/solution/tree/master/0853-car-fleet) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/hphng/solution/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/hphng/solution/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/hphng/solution/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2092-find-all-people-with-secret](https://github.com/hphng/solution/tree/master/2092-find-all-people-with-secret) |
 | [2402-meeting-rooms-iii](https://github.com/hphng/solution/tree/master/2402-meeting-rooms-iii) |
