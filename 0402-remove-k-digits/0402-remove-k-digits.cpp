@@ -1,35 +1,35 @@
 class Solution {
 public:
     string removeKdigits(string num, int k) {
-        deque<char> st;
+        stack<char> s;
+
         for(int i = 0; i < num.length(); i++){
-            if(st.empty()){
-                st.push_back(num[i]);
+            if(s.empty()){
+                s.push(num[i]);
                 continue;
             }
 
-            while(!st.empty() && st.back() > num[i] && k > 0){
-                st.pop_back();
+            while(!s.empty() && s.top() > num[i] && k > 0){
+                s.pop();
                 k--;
             }
-            st.push_back(num[i]);
-        }
 
-        while(!st.empty() && k--){
-            st.pop_back();
+            s.push(num[i]);
         }
- 
-        while(!st.empty() && st.front() == '0'){
-            st.pop_front();
+        while(!s.empty() && k > 0){
+            s.pop();
+            k--;
         }
-
-        string ans = "";
-        while(!st.empty()){
-            char c = st.front();
-            ans += c;
-            st.pop_front();
+        string ans;
+        while(!s.empty()){
+            ans += s.top();
+            s.pop();
         }
-        if(ans == "") return "0";
+        while(!ans.empty() && ans.back() == '0'){
+            ans.pop_back();
+        }
+        reverse(ans.begin(), ans.end());
+        if(ans.empty()) return "0";
         return ans;
     }
 };
