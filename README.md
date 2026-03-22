@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/hphng/solution/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/hphng/solution/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/hphng/solution/tree/master/0322-coin-change) |
+| [0330-patching-array](https://github.com/hphng/solution/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/hphng/solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0346-moving-average-from-data-stream](https://github.com/hphng/solution/tree/master/0346-moving-average-from-data-stream) |
 | [0362-design-hit-counter](https://github.com/hphng/solution/tree/master/0362-design-hit-counter) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/hphng/solution/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/hphng/solution/tree/master/0135-candy) |
 | [0253-meeting-rooms-ii](https://github.com/hphng/solution/tree/master/0253-meeting-rooms-ii) |
+| [0330-patching-array](https://github.com/hphng/solution/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/hphng/solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/hphng/solution/tree/master/0402-remove-k-digits) |
 | [0778-reorganize-string](https://github.com/hphng/solution/tree/master/0778-reorganize-string) |
