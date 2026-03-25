@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/hphng/solution/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/hphng/solution/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/hphng/solution/tree/master/0221-maximal-square) |
+| [0276-paint-fence](https://github.com/hphng/solution/tree/master/0276-paint-fence) |
 | [0300-longest-increasing-subsequence](https://github.com/hphng/solution/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/hphng/solution/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/hphng/solution/tree/master/0322-coin-change) |
