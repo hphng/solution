@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/hphng/solution/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/hphng/solution/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hphng/solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/hphng/solution/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2211-count-collisions-on-a-road](https://github.com/hphng/solution/tree/master/2211-count-collisions-on-a-road) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/hphng/solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/hphng/solution/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/hphng/solution/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/hphng/solution/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hphng/solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/hphng/solution/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/hphng/solution/tree/master/2402-meeting-rooms-iii) |
 | [2833-count-zero-request-servers](https://github.com/hphng/solution/tree/master/2833-count-zero-request-servers) |
 | [3227-find-missing-and-repeated-values](https://github.com/hphng/solution/tree/master/3227-find-missing-and-repeated-values) |
