@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/hphng/solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/hphng/solution/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/hphng/solution/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1494-parallel-courses-ii](https://github.com/hphng/solution/tree/master/1494-parallel-courses-ii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/hphng/solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/hphng/solution/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/hphng/solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/hphng/solution/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/hphng/solution/tree/master/0136-single-number) |
 | [0756-pyramid-transition-matrix](https://github.com/hphng/solution/tree/master/0756-pyramid-transition-matrix) |
+| [1494-parallel-courses-ii](https://github.com/hphng/solution/tree/master/1494-parallel-courses-ii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hphng/solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Radix Sort
 |  |
@@ -779,8 +781,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/hphng/solution/tree/master/0133-clone-graph) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hphng/solution/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1494-parallel-courses-ii](https://github.com/hphng/solution/tree/master/1494-parallel-courses-ii) |
 ## Shortest Path
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hphng/solution/tree/master/0787-cheapest-flights-within-k-stops) |
+## Bitmask
+|  |
+| ------- |
+| [1494-parallel-courses-ii](https://github.com/hphng/solution/tree/master/1494-parallel-courses-ii) |
 <!---LeetCode Topics End-->
