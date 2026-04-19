@@ -10,19 +10,20 @@ public:
                 cur = 1;
                 continue;
             }
-            cur*=nums[i];
-            // cout << cur << endl;
+            cur *= nums[i];
             maxi = max(maxi, cur);
         }
         cur = 1;
-        for(int i = nums.size()- 1; i >= 0; i--){
+        for(int i = nums.size() - 1; i >= 0; i--){
             if(nums[i] == 0){
                 cur = 1;
                 continue;
             }
+
             cur*= nums[i];
             maxi = max(maxi, cur);
         }
+
         return maxi;
     }
 };
