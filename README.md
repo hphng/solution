@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/hphng/solution/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/hphng/solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/hphng/solution/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2742-painting-the-walls](https://github.com/hphng/solution/tree/master/2742-painting-the-walls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/hphng/solution/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/hphng/solution/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Array
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/hphng/solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hphng/solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/hphng/solution/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2742-painting-the-walls](https://github.com/hphng/solution/tree/master/2742-painting-the-walls) |
 | [2833-count-zero-request-servers](https://github.com/hphng/solution/tree/master/2833-count-zero-request-servers) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/hphng/solution/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/hphng/solution/tree/master/2943-maximize-area-of-square-hole-in-grid) |
