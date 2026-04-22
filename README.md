@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/hphng/solution/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/hphng/solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/hphng/solution/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/hphng/solution/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/hphng/solution/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/hphng/solution/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/hphng/solution/tree/master/0735-asteroid-collision) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/hphng/solution/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/hphng/solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/hphng/solution/tree/master/0402-remove-k-digits) |
+| [0621-task-scheduler](https://github.com/hphng/solution/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/hphng/solution/tree/master/0778-reorganize-string) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/hphng/solution/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1975-maximum-matrix-sum](https://github.com/hphng/solution/tree/master/1975-maximum-matrix-sum) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/hphng/solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/hphng/solution/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/hphng/solution/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/hphng/solution/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/hphng/solution/tree/master/0692-top-k-frequent-words) |
 | [0756-pyramid-transition-matrix](https://github.com/hphng/solution/tree/master/0756-pyramid-transition-matrix) |
 | [0778-reorganize-string](https://github.com/hphng/solution/tree/master/0778-reorganize-string) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/hphng/solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/hphng/solution/tree/master/0253-meeting-rooms-ii) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/hphng/solution/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0621-task-scheduler](https://github.com/hphng/solution/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/hphng/solution/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/hphng/solution/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/hphng/solution/tree/master/0778-reorganize-string) |
@@ -524,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/hphng/solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/hphng/solution/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/hphng/solution/tree/master/0253-meeting-rooms-ii) |
+| [0621-task-scheduler](https://github.com/hphng/solution/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/hphng/solution/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/hphng/solution/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/hphng/solution/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -539,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/hphng/solution/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/hphng/solution/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/hphng/solution/tree/master/0778-reorganize-string) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hphng/solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
