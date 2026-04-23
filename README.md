@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/hphng/solution/tree/master/0402-remove-k-digits) |
 | [0408-valid-word-abbreviation](https://github.com/hphng/solution/tree/master/0408-valid-word-abbreviation) |
 | [0567-permutation-in-string](https://github.com/hphng/solution/tree/master/0567-permutation-in-string) |
+| [0635-design-log-storage-system](https://github.com/hphng/solution/tree/master/0635-design-log-storage-system) |
 | [0692-top-k-frequent-words](https://github.com/hphng/solution/tree/master/0692-top-k-frequent-words) |
 | [0756-pyramid-transition-matrix](https://github.com/hphng/solution/tree/master/0756-pyramid-transition-matrix) |
 | [0778-reorganize-string](https://github.com/hphng/solution/tree/master/0778-reorganize-string) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/hphng/solution/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/hphng/solution/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/hphng/solution/tree/master/0621-task-scheduler) |
+| [0635-design-log-storage-system](https://github.com/hphng/solution/tree/master/0635-design-log-storage-system) |
 | [0692-top-k-frequent-words](https://github.com/hphng/solution/tree/master/0692-top-k-frequent-words) |
 | [0756-pyramid-transition-matrix](https://github.com/hphng/solution/tree/master/0756-pyramid-transition-matrix) |
 | [0778-reorganize-string](https://github.com/hphng/solution/tree/master/0778-reorganize-string) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0346-moving-average-from-data-stream](https://github.com/hphng/solution/tree/master/0346-moving-average-from-data-stream) |
 | [0362-design-hit-counter](https://github.com/hphng/solution/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hphng/solution/tree/master/0380-insert-delete-getrandom-o1) |
+| [0635-design-log-storage-system](https://github.com/hphng/solution/tree/master/0635-design-log-storage-system) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/hphng/solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1166-design-file-system](https://github.com/hphng/solution/tree/master/1166-design-file-system) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/hphng/solution/tree/master/1949-implement-trie-ii-prefix-tree) |
@@ -801,4 +804,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1494-parallel-courses-ii](https://github.com/hphng/solution/tree/master/1494-parallel-courses-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0635-design-log-storage-system](https://github.com/hphng/solution/tree/master/0635-design-log-storage-system) |
 <!---LeetCode Topics End-->
