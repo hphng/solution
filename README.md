@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/hphng/solution/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/hphng/solution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hphng/solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/hphng/solution/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/hphng/solution/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/hphng/solution/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/hphng/solution/tree/master/0079-word-search) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/hphng/solution/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/hphng/solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/hphng/solution/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/hphng/solution/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/hphng/solution/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/hphng/solution/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/hphng/solution/tree/master/0066-plus-one) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hphng/solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hphng/solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/hphng/solution/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/hphng/solution/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/hphng/solution/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hphng/solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/hphng/solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/hphng/solution/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/hphng/solution/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/hphng/solution/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hphng/solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/hphng/solution/tree/master/0253-meeting-rooms-ii) |
