@@ -1,81 +1,79 @@
-struct Node {
-    int key;
-    int value;
-    Node* prev;
-    Node* next;
-
-    Node(): key(-1), value(-1), prev(nullptr), next(nullptr) {}
-    Node(int key, int value): key(key), value(value), prev(nullptr), next(nullptr) {}
-};
-
 class LRUCache {
 private:
-    unordered_map<int, Node*> mp; //mp[key] = value
+    int CAP;
+    int currentLength;
+    struct Node {
+        int key;
+        int value;
+        Node* next;
+        Node* prev;
+
+        Node(int key, int value): key(key), value(value) {
+            next = nullptr;
+            prev = nullptr;
+        }
+    };
+
+    unordered_map<int, Node*> mp; // value: Node
     Node* head;
     Node* tail;
-    int capacity;
 
-    void insertNode(Node* node){
-        Node* prevNode = tail -> prev;
+    void addNode(int key, int value) {
+        Node* cur = new Node(key, value);
 
-        prevNode -> next = node;
-        node -> prev = prevNode;
+        Node* latest = tail -> prev;
 
-        node -> next = tail;
-        tail -> prev = node;
+        latest -> next = cur;
+        cur -> prev = latest;
+
+        cur -> next = tail;
+        tail -> prev = cur;
+        mp[key] = cur;
+        currentLength++;
     }
 
-    void deleteNode(Node* node){
-        Node* left = node -> prev;
-        Node* right = node -> next;
-        left -> next = right;
-        right -> prev = left;
-    }
+    void deleteNode(Node* cur) {
+        //delete cur in this position
+        cur -> prev -> next = cur -> next;
+        cur -> next -> prev = cur -> prev;
 
+        mp.erase(cur-> key);
+        delete cur;
+        currentLength--;
+    }
 public:
-    LRUCache(int _capacity) {
-        capacity = _capacity;
-        head = new Node();
-        tail = new Node();
+    LRUCache(int capacity): CAP(capacity), currentLength(0) {
+        head = new Node(-1, -1);
+        tail = new Node(-1, -1);
         head -> next = tail;
         tail -> prev = head;
     }
     
     int get(int key) {
-        if(mp.find(key) != mp.end()) {
-            Node* cur = mp[key];
-            deleteNode(cur);
-            insertNode(cur);
-            return cur -> value;
+        if(mp.find(key) == mp.end()){
+            return -1;
         }
-        return -1;
+
+        int value = mp[key] -> value;
+        deleteNode(mp[key]);
+        addNode(key, value);
+        return value;
     }
     
     void put(int key, int value) {
         if(mp.find(key) != mp.end()) {
-            deleteNode(mp[key]);
+            Node* cur = mp[key];
+            deleteNode(cur);
+            addNode(key, value);
+            return;
         }
 
-        Node* newNode = new Node(key, value);
-        mp[key] = newNode;
-        insertNode(newNode);
-
-        if(mp.size() > capacity) {
-            Node* old = head -> next;
-            deleteNode(old);
-            mp.erase(old -> key);
-            delete old;
+        if(currentLength == CAP) {
+            deleteNode(head -> next);
         }
+
+        addNode(key, value);
     }
-
-    // ~LRUCache() {
-    //     Node* cur = head;
-    //     while(cur) {
-    //         Node* next = cur -> next;
-    //         delete cur;
-    //         cur = next;
-    //     }
-    // }
 };
 
 /**
