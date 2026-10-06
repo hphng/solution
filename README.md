@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/hphng/solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/hphng/solution/tree/master/0212-word-search-ii) |
 | [0227-basic-calculator-ii](https://github.com/hphng/solution/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/hphng/solution/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/hphng/solution/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hphng/solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/hphng/solution/tree/master/0402-remove-k-digits) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/hphng/solution/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/hphng/solution/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/hphng/solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/hphng/solution/tree/master/0242-valid-anagram) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/hphng/solution/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hphng/solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/hphng/solution/tree/master/0523-continuous-subarray-sum) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/hphng/solution/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/hphng/solution/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hphng/solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/hphng/solution/tree/master/0242-valid-anagram) |
 | [0253-meeting-rooms-ii](https://github.com/hphng/solution/tree/master/0253-meeting-rooms-ii) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/hphng/solution/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0621-task-scheduler](https://github.com/hphng/solution/tree/master/0621-task-scheduler) |
