@@ -1,27 +1,36 @@
 class Solution {
 public:
+    void swap( vector<int>& nums, int i, int j){
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
+    }
     void nextPermutation(vector<int>& nums) {
-        int pivot = -1, n = nums.size();
-        for(int i = n-1; i >0 ; i--){
+        int p1 = -1;
+        int p2 = nums[nums.size()-1];
+
+        for(int i = nums.size()-1; i>0; i--){
             if(nums[i] > nums[i-1]){
-                pivot = i - 1;
+                p1 = i -1;
                 break;
             }
         }
 
-        if(pivot == -1){
+        if(p1 == -1){
             reverse(nums.begin(), nums.end());
             return;
         }
 
-        for(int i = n-1; i >= 0; i-- ){
-            if(nums[pivot] < nums[i]){
-                swap(nums[pivot], nums[i]);
-                reverse(nums.begin() + pivot + 1, nums.end());
+        for(int i = nums.size() -1; i >=0; i--){
+            if(nums[i] > nums[p1]){
+                p2 = i;
                 break;
             }
         }
 
-        // reverse(nums.begin() + )
+        swap(nums, p1, p2);
+        reverse(nums.begin() + p1 + 1, nums.end());
+
+
     }
 };
