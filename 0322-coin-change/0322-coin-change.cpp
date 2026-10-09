@@ -1,19 +1,24 @@
 class Solution {
 public:
     int coinChange(vector<int>& coins, int amount) {
-        vector<int> dp(amount + 1, INT_MAX-1);
-        dp[0] = 0;
-        for(int cost = 1; cost < dp.size(); cost++){
-            for(auto coin: coins){
-                if(cost < coin){
+        if(amount == 0) return 0;
+        vector<int> ans (amount + 1, INT_MAX - 1);
+
+        for(int i = 0; i <= amount; i++) {
+            for(const auto coin: coins) {
+                if(i == coin) {
+                    ans[i] = 1;
                     continue;
                 }
-                dp[cost] = min(dp[cost-coin] + 1, dp[cost]);
+
+                if( i - coin >= 0) {
+                    ans[i] = min(ans[i], ans[i-coin]+ 1);
+                }
             }
         }
-        if(dp[amount] > INT_MAX-2){
+        if(ans[amount] == INT_MAX -1) {
             return -1;
         }
-        return dp[amount];
+        return ans[amount];
     }
 };
