@@ -1,50 +1,48 @@
 class Solution {
 public:
-    bool isSafe (vector<string>& NQueens, int row, int col){
-        int n = NQueens.size();
-        for(int i = 0; i < n; i++){
-            if(NQueens[i][col] == 'Q'){
-                return false;
-            }
-        }
+    bool isSafe(vector<string>& board, int row, int col) {
+        //check current row is safe or not
+        vector<vector<int>> dirs = {
+            {1, 0}, {0, 1}, {1, -1}, {1, 1},
+            {-1, 0}, {0, -1}, {-1, 1}, {-1, -1}
+        };
 
-        // for(int i = 0; i < n; i++){
-        //     if(NQueens[row][i] == 'Q'){
-        //         return false;
-        //     }
-        // }
+        int n = board.size();
+        for(const auto d: dirs) {
+            int newRow = row + d[0];
+            int newCol = col + d[1];
 
-        for(int i = row-1, j = col-1; i >= 0 && j >= 0; i--, j--){
-            if(NQueens[i][j] == 'Q'){
-                return false;
-            }
-        }
-
-        for(int i = row-1, j = col+1; i >= 0 && j < n; i--, j++){
-            if(NQueens[i][j] == 'Q'){
-                return false;
+            while(newRow >= 0 && newRow < n && newCol >= 0 && newCol < n) {
+                if(board[newRow][newCol] == 'Q') {
+                    return false;
+                }
+                newRow += d[0];
+                newCol += d[1];
             }
         }
         return true;
     }
-    void backtrack(vector<vector<string>>& ans, vector<string>& NQueens, int row){
-        int n = NQueens.size();
-        if(row == n){
-            ans.push_back(NQueens);
+
+    void backtrack(vector<vector<string>>& ans, vector<string>& cur, int index) {
+        int n = cur.size();
+        if(index == n) {
+            ans.push_back(cur);
             return;
         }
-        for(int col = 0; col < n; col++){
-            if(isSafe(NQueens, row, col)){
-                NQueens[row][col] = 'Q';
-                backtrack(ans, NQueens, row+1);
-                NQueens[row][col] = '.';
+        for(int i = 0; i < n; i++) {
+            if(isSafe(cur, i, index)) {
+                cur[i][index] = 'Q';
+                backtrack(ans, cur, index + 1);
+                cur[i][index] = '.';
             }
         }
+
     }
     vector<vector<string>> solveNQueens(int n) {
         vector<vector<string>> ans;
-        vector<string> NQueens(n, string(n, '.'));
-        backtrack(ans, NQueens, 0);
-        return ans;
+        vector<string> board(n, string(n, '.'));
+
+        backtrack(ans, board, 0);
+        return ans; 
     }
 };
