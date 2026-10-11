@@ -9,9 +9,7 @@ public:
         int cur = 0;
         int maxi = 0;
         while(start < n && end < n) {
-            if(nums[end] == 1) {
-                
-            } else {
+            if(nums[end] == 0) {
                 //for now nums[i] = 0 only
                 if(count == 0) {
                     while(start < end && nums[start] == 1) {
