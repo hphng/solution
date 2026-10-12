@@ -1,45 +1,33 @@
 class Solution {
 public:
     int largestRectangleArea(vector<int>& heights) {
-        int maxArea = 0;
-        //monotonic stack
-        stack<int> s;
-        s.push(-1);
-        for(int i = 0; i < heights.size(); i++){
-            if(s.top() == -1) {
-                s.push(i);
-                continue;
+        stack<int> st;
+        st.push(-1);
+        int maxi = 0;
+        for(int i = 0; i < heights.size(); i++) {
+            if(st.size() == 1) {
+                st.push(i);
             }
 
-            if(heights[s.top()] < heights[i]){
-                s.push(i);
-                continue;
+            while(st.size() > 1 && heights[st.top()] > heights[i]) {
+                int curIndex = st.top();
+                st.pop();
+
+                int curArea = heights[curIndex] * (i - st.top() - 1);
+                maxi = max(maxi, curArea);
             }
 
-            //have elements in the stack + current height > top of stack
-            while(s.top() != -1 && heights[s.top()] >= heights[i]) {
-                int curIndex = s.top();
-                s.pop();
-
-                int h = heights[curIndex];
-                //take width = between index a and b (a, b) (exclusive)
-                int w = i - s.top() - 1;
-                maxArea = max(maxArea, h*w);
-            }
-            //after pop out every greater height
-            s.push(i);
+            st.push(i);
         }
 
-        //process remaining index in stack
-        int last = heights.size();
-        while(s.top() != -1){
-            int curIndex = s.top();
-            s.pop();
+        while(st.top() != -1 ) {
+            int curIndex = st.top();
+            st.pop();
 
-            int h = heights[curIndex];
-            int w = last - s.top() - 1;
-            maxArea = max(maxArea, h*w);
+            int curArea = heights[curIndex] * (heights.size() - st.top() - 1);
+            maxi = max(maxi, curArea);
         }
-        return maxArea;
+
+        return maxi;
     }
 };
