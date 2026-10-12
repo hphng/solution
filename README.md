@@ -918,4 +918,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/hphng/solution/tree/master/0051-n-queens) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/hphng/solution/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
