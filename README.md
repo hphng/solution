@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hphng/solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/hphng/solution/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/hphng/solution/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/hphng/solution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/hphng/solution/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/hphng/solution/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hphng/solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/hphng/solution/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/hphng/solution/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/hphng/solution/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/hphng/solution/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/hphng/solution/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/hphng/solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/hphng/solution/tree/master/0212-word-search-ii) |
