@@ -11,7 +11,7 @@ public:
             findNextIndex[i] = nextIndex;
         }   
 
-
+        //dp: the maximum earn start from index -> end given that some meetring before already chosen or not
         vector<vector<long long>> dp(n+1, vector<long long>(2, -1));
         dp[n][0] = 0;
         dp[n][1] = 0;
