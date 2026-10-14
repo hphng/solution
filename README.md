@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/hphng/solution/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/hphng/solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/hphng/solution/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hphng/solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/hphng/solution/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/hphng/solution/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/hphng/solution/tree/master/1975-maximum-matrix-sum) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1099-path-with-maximum-minimum-value](https://github.com/hphng/solution/tree/master/1099-path-with-maximum-minimum-value) |
 | [1214-two-sum-bsts](https://github.com/hphng/solution/tree/master/1214-two-sum-bsts) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/hphng/solution/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hphng/solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/hphng/solution/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/hphng/solution/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hphng/solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1166-design-file-system](https://github.com/hphng/solution/tree/master/1166-design-file-system) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/hphng/solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/hphng/solution/tree/master/1590-make-sum-divisible-by-p) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hphng/solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/hphng/solution/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1949-implement-trie-ii-prefix-tree](https://github.com/hphng/solution/tree/master/1949-implement-trie-ii-prefix-tree) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hphng/solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/hphng/solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1590-make-sum-divisible-by-p](https://github.com/hphng/solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/hphng/solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hphng/solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hphng/solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/hphng/solution/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/hphng/solution/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -641,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/hphng/solution/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/hphng/solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/hphng/solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hphng/solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/hphng/solution/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/hphng/solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/hphng/solution/tree/master/2618-maximize-the-minimum-powered-city) |
