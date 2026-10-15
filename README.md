@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0314-binary-tree-vertical-order-traversal](https://github.com/hphng/solution/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0359-logger-rate-limiter](https://github.com/hphng/solution/tree/master/0359-logger-rate-limiter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hphng/solution/tree/master/0380-insert-delete-getrandom-o1) |
+| [0460-lfu-cache](https://github.com/hphng/solution/tree/master/0460-lfu-cache) |
 | [0523-continuous-subarray-sum](https://github.com/hphng/solution/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/hphng/solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/hphng/solution/tree/master/0560-subarray-sum-equals-k) |
@@ -733,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0359-logger-rate-limiter](https://github.com/hphng/solution/tree/master/0359-logger-rate-limiter) |
 | [0362-design-hit-counter](https://github.com/hphng/solution/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hphng/solution/tree/master/0380-insert-delete-getrandom-o1) |
+| [0460-lfu-cache](https://github.com/hphng/solution/tree/master/0460-lfu-cache) |
 | [0635-design-log-storage-system](https://github.com/hphng/solution/tree/master/0635-design-log-storage-system) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/hphng/solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1166-design-file-system](https://github.com/hphng/solution/tree/master/1166-design-file-system) |
@@ -757,10 +759,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/hphng/solution/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/hphng/solution/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/hphng/solution/tree/master/0234-palindrome-linked-list) |
+| [0460-lfu-cache](https://github.com/hphng/solution/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/hphng/solution/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/hphng/solution/tree/master/0460-lfu-cache) |
 ## Database
 |  |
 | ------- |
