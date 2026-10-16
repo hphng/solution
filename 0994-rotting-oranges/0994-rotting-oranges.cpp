@@ -1,59 +1,44 @@
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-        int n = grid.size();
-        int m = grid[0].size();
-
-        int fresh = 0;
-
         queue<pair<int, int>> q;
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < m; j++){
-                if(grid[i][j] == 2){
+        int m = grid.size();
+        int n = grid[0].size();
+        int count = 0;
+        for(int i = 0; i < m; i++) {
+            for(int j = 0; j < n; j++){
+                if(grid[i][j] == 2) {
                     q.push({i, j});
+                } else if(grid[i][j] == 1) {
+                    count++;
                 }
-
-                if(grid[i][j] == 1){
-                    fresh++;
-                }
-
-            } 
+            }
         }
-
-        if(fresh == 0) {
-            return 0;
-        }
-
-        vector<int> dir = {1, 0, -1, 0, 1};
+        vector<int> dirs = {1, 0, -1, 0, 1};
         int time = 0;
-
-        while(!q.empty()) {
+        while(!q.empty()&& count > 0) {
             int size = q.size();
-
-            for(int i = 0; i < size; i++){
-                auto [x, y] = q.front();
+            for(int s = 0; s < size; s++) {
+                auto [row, col] = q.front();
                 q.pop();
+                for(int i = 0; i < 4; i++) {
+                    int nr = row + dirs[i];
+                    int nc = col + dirs[i+1];
 
-                for(int t = 0; t < 4; t ++) {
-                    int newX = x + dir[t];
-                    int newY = y + dir[t+1];
-
-
-                    if(newX < 0 || newY < 0 || newX >= n || newY >=m){
+                    if(nr < 0 || nr >= m || nc < 0 || nc >= n || grid[nr][nc] != 1) {
                         continue;
                     }
 
-                    if(grid[newX][newY] == 1) {
-                        q.push({newX, newY});
-                        grid[newX][newY] = 2;
-                        fresh--;
-                    }
+                    q.push({nr, nc});
+                    count--;
+                    grid[nr][nc]= 2;
                 }
             }
             time++;
         }
 
-        if(fresh != 0) return -1;
-        return time-1;
+        if(count > 0) return -1;
+        return time;
+
     }
 };
