@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0635-design-log-storage-system](https://github.com/hphng/solution/tree/master/0635-design-log-storage-system) |
 | [0692-top-k-frequent-words](https://github.com/hphng/solution/tree/master/0692-top-k-frequent-words) |
 | [0756-pyramid-transition-matrix](https://github.com/hphng/solution/tree/master/0756-pyramid-transition-matrix) |
+| [0771-jewels-and-stones](https://github.com/hphng/solution/tree/master/0771-jewels-and-stones) |
 | [0778-reorganize-string](https://github.com/hphng/solution/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/hphng/solution/tree/master/0807-custom-sort-string) |
 | [1166-design-file-system](https://github.com/hphng/solution/tree/master/1166-design-file-system) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0635-design-log-storage-system](https://github.com/hphng/solution/tree/master/0635-design-log-storage-system) |
 | [0692-top-k-frequent-words](https://github.com/hphng/solution/tree/master/0692-top-k-frequent-words) |
 | [0756-pyramid-transition-matrix](https://github.com/hphng/solution/tree/master/0756-pyramid-transition-matrix) |
+| [0771-jewels-and-stones](https://github.com/hphng/solution/tree/master/0771-jewels-and-stones) |
 | [0778-reorganize-string](https://github.com/hphng/solution/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/hphng/solution/tree/master/0807-custom-sort-string) |
 | [0815-bus-routes](https://github.com/hphng/solution/tree/master/0815-bus-routes) |
