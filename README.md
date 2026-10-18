@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1214-two-sum-bsts](https://github.com/hphng/solution/tree/master/1214-two-sum-bsts) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/hphng/solution/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/hphng/solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2938-separate-black-and-white-balls](https://github.com/hphng/solution/tree/master/2938-separate-black-and-white-balls) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/hphng/solution/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/hphng/solution/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## String
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/hphng/solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/hphng/solution/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/hphng/solution/tree/master/2576-minimum-penalty-for-a-shop) |
+| [2938-separate-black-and-white-balls](https://github.com/hphng/solution/tree/master/2938-separate-black-and-white-balls) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/hphng/solution/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3606-coupon-code-validator](https://github.com/hphng/solution/tree/master/3606-coupon-code-validator) |
 ## Dynamic Programming
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/hphng/solution/tree/master/1975-maximum-matrix-sum) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/hphng/solution/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/hphng/solution/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2938-separate-black-and-white-balls](https://github.com/hphng/solution/tree/master/2938-separate-black-and-white-balls) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/hphng/solution/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/hphng/solution/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/hphng/solution/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
