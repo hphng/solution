@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/hphng/solution/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/hphng/solution/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/hphng/solution/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/hphng/solution/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/hphng/solution/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Binary Search
 |  |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/hphng/solution/tree/master/3606-coupon-code-validator) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/hphng/solution/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/hphng/solution/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/hphng/solution/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Tree
 |  |
 | ------- |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/hphng/solution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/hphng/solution/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/hphng/solution/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/hphng/solution/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Matrix
 |  |
 | ------- |
