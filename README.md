@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/hphng/solution/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/hphng/solution/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/hphng/solution/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/hphng/solution/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/hphng/solution/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Binary Search
 |  |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/hphng/solution/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/hphng/solution/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/hphng/solution/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/hphng/solution/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Tree
 |  |
 | ------- |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/hphng/solution/tree/master/0778-reorganize-string) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hphng/solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/hphng/solution/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/hphng/solution/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Number Theory
 |  |
 | ------- |
