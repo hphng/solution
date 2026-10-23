@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/hphng/solution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/hphng/solution/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/hphng/solution/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3806-maximum-bitwise-and-after-increment-operations](https://github.com/hphng/solution/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 | [3886-sum-of-sortable-integers](https://github.com/hphng/solution/tree/master/3886-sum-of-sortable-integers) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/hphng/solution/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/hphng/solution/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/hphng/solution/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/hphng/solution/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/hphng/solution/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3806-maximum-bitwise-and-after-increment-operations](https://github.com/hphng/solution/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/hphng/solution/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Hash Table
 |  |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/hphng/solution/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/hphng/solution/tree/master/3606-coupon-code-validator) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/hphng/solution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3806-maximum-bitwise-and-after-increment-operations](https://github.com/hphng/solution/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 | [3886-sum-of-sortable-integers](https://github.com/hphng/solution/tree/master/3886-sum-of-sortable-integers) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/hphng/solution/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/hphng/solution/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
@@ -895,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/hphng/solution/tree/master/0756-pyramid-transition-matrix) |
 | [1494-parallel-courses-ii](https://github.com/hphng/solution/tree/master/1494-parallel-courses-ii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hphng/solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3806-maximum-bitwise-and-after-increment-operations](https://github.com/hphng/solution/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 ## Radix Sort
 |  |
 | ------- |
